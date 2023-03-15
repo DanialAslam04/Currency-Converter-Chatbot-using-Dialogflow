@@ -1,4 +1,4 @@
 Chat bot is created using dialogflow hence it is residing online (intents etc)
 curr-chatbot folder contains the backend of project (such as APi calling for conversion etc) it is created using flask
 
-Also ngrok is used that software I downloaded to make my backend code which was on my  machine go online so that dialogflow can send data to it later recieve data from i
+Also ngrok is used that software I downloaded to make my backend code which was on my  machine go online so that dialogflow can send and recieve data from i
